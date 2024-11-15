@@ -1,0 +1,2 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[106],{"34ks":function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/ultravioleta",function(){return u("u0Gy")}])},u0Gy:function(n,_,u){"use strict";u.r(_);var o=u("hTBL");_.default=o.a}},[["34ks",2,1,0,3,4,5,6,7,8,9,10,11,12,16,29]]]);
+//# sourceMappingURL=ultravioleta-e8bf7f722be93694d5d3.js.map
